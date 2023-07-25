@@ -258,7 +258,7 @@
   
   <!--img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=oigorholanda&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" /-->
 </div>
-<br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 <!--
 
