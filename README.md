@@ -40,7 +40,7 @@
 
 
   <a href="https://github.com/oigorholanda">
-    <img align="center" height="203px" src="https://streak-stats.demolab.com?user=oigorholanda&theme=vision-friendly-dark&hide_border=true" />
+    <img align="center" height="200px" src="https://streak-stats.demolab.com?user=oigorholanda&theme=vision-friendly-dark&hide_border=true" />
   </a>
   
   <!--img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=oigorholanda&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" /-->
