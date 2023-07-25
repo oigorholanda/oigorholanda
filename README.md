@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Igor Holanda</h1>
-<h3 align="center"><p align="center">A passionate FullStack developer from Brazil</p>
-    <img align="right" src="https://komarev.com/ghpvc/?username=oigorholanda&label=Profile%20views&color=ffb000&style=flat" alt="oigorholanda" /> 
+<h3 align="center"><p align="center">A passionate FullStack developer from Brazil</p><img align="right" src="https://komarev.com/ghpvc/?username=oigorholanda&label=Profile%20views&color=ffb000&style=flat" alt="oigorholanda" /> 
 </h3>
-<br><br>
+<br>
+<br>
 
 <p align="center"> 
   <a href="https://github.com/oigorholanda">
@@ -32,17 +32,19 @@
 
 <div align="center">
       <a href="https://github.com/oigorholanda">
-    <img align="left" height="203em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=oigorholanda&langs_count=8&theme=vision-friendly-dark&layout=compact&hide_border=true&cache_seconds=14400" /></a>
+    <img align="left" height="203em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=oigorholanda&langs_count=8&theme=vision-friendly-dark&layout=compact&hide_border=true&cache_seconds=14400" /></a>
   <a href="https://github.com/oigorholanda">
-    <img align="right" height="203em" width="48%" src="https://github-readme-stats.vercel.app/api?username=oigorholanda&theme=vision-friendly-dark&hide_border=true&show_icons=true&rank_icon=percentile&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&cache_seconds=14400" />
+    <img align="right" height="203em" width="47%" src="https://github-readme-stats.vercel.app/api?username=oigorholanda&theme=vision-friendly-dark&hide_border=true&show_icons=true&rank_icon=percentile&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&cache_seconds=14400" />
   </a>
+<br><br>
 
 
   <a href="https://github.com/oigorholanda">
     <img height="203em" src="https://streak-stats.demolab.com?user=oigorholanda&theme=vision-friendly-dark&hide_border=true" />
   </a>
+  
   <!--img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=oigorholanda&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" /-->
-
+</div>
 
 <!--
 
