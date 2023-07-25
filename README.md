@@ -31,16 +31,16 @@
 <hr>
 
 <div align="center">
-      <a href="https://github.com/oigorholanda">
-    <img align="center" height="203px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=oigorholanda&langs_count=8&theme=vision-friendly-dark&layout=compact&hide_border=true&card_width=250&cache_seconds=14400" /></a>
+      
   <a href="https://github.com/oigorholanda">
-    <img align="center" height="203px" width="49%" src="https://github-readme-stats.vercel.app/api?username=oigorholanda&theme=vision-friendly-dark&hide_border=true&show_icons=true&rank_icon=percentile&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&cache_seconds=14400" />
+    <img align="center" height="203px" src="https://github-readme-stats.vercel.app/api?username=oigorholanda&theme=vision-friendly-dark&hide_border=true&show_icons=true&rank_icon=percentile&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&cache_seconds=14400" />
   </a>
 <br><br>
 
-
+<a href="https://github.com/oigorholanda">
+    <img align="center" height="203px" src="https://github-readme-stats.vercel.app/api/top-langs?username=oigorholanda&langs_count=8&theme=vision-friendly-dark&layout=compact&hide_border=true&card_width=250&cache_seconds=14400" /></a>
   <a href="https://github.com/oigorholanda">
-    <img height="203px" src="https://streak-stats.demolab.com?user=oigorholanda&theme=vision-friendly-dark&hide_border=true" />
+    <img align="center" height="203px" src="https://streak-stats.demolab.com?user=oigorholanda&theme=vision-friendly-dark&hide_border=true" />
   </a>
   
   <!--img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=oigorholanda&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" /-->
