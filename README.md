@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/oigorholanda/PodLevar-SPA" target="_blank" >PodLevar</a>
 - 🌱 I’m currently learning NestJS
-- ⚡ Fun fact: I like music a lot 🎧, this helps me concentrate in my coding and creative process for hours on end.
+- ⚡ Fun fact: I like music a lot 🎧, and it serves as my creative fuel, allowing me to stay focused and immersed in the development process for hours on end.
 
 <!--
 **oigorholanda/oigorholanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
