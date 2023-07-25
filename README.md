@@ -38,7 +38,7 @@
 <br><br>
 
 <a href="https://github.com/oigorholanda">
-    <img align="center" height="203px" src="https://github-readme-stats.vercel.app/api/top-langs?username=oigorholanda&langs_count=8&theme=vision-friendly-dark&layout=compact&hide_border=true&card_width=250&cache_seconds=14400" /></a>
+    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=oigorholanda&langs_count=8&theme=vision-friendly-dark&layout=compact&hide_border=true&card_width=200&cache_seconds=14400" /></a>
   <a href="https://github.com/oigorholanda">
     <img align="center" height="203px" src="https://streak-stats.demolab.com?user=oigorholanda&theme=vision-friendly-dark&hide_border=true" />
   </a>
