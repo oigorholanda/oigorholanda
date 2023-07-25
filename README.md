@@ -11,13 +11,17 @@
 </p>
 <br>
 
-- 🔭 I’m currently working on [Podlevar](https://github.com/oigorholanda/PodLevar-SPA), a donation platform
+* 🔭 I’m currently working on [Podlevar](https://github.com/oigorholanda/PodLevar-SPA), a donation platform
 
-- 🌱 I’m currently learning **NestJS**
+* 🌱 I’m currently learning **NestJS**
 
-- ⚡ Fun fact: I like music a lot 🎧, and it serves as my creative fuel, allowing me to stay focused and immersed in the development process for hours on end.
+* ⚡ Fun fact: I like music a lot 🎧, and it serves as my creative fuel, allowing me to stay focused and immersed in the development process for hours on end.
 
-- 📫 How to reach me: **oigorholanda@gmail.com**
+* 📫 How to reach me:
+
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oigorholanda)](https://www.linkedin.com/in/oigorholanda)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oigorholanda@gmail.com)](mailto:oigorholanda@gmail.com)
 <br/>
 
 
@@ -245,7 +249,10 @@
 
 <hr>
 
-<div align="center">
+<details>
+  <summary>GitHub Stats</summary>
+  <br/>
+  <div align="center">
       <a href="https://github.com/oigorholanda">
     <img align="left" height="201px" src="https://github-readme-stats.vercel.app/api/top-langs?username=oigorholanda&langs_count=8&theme=vision-friendly-dark&layout=compact&hide_border=true&card_width=180&cache_seconds=14400" /></a>
   <a href="https://github.com/oigorholanda">
@@ -259,6 +266,8 @@
   <!--img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=oigorholanda&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" /-->
 </div>
 <br/><br/><br/>
+</details>
+
 
 <!--
 
