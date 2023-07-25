@@ -13,15 +13,14 @@
 
 * 🔭 I’m currently working on [Podlevar](https://github.com/oigorholanda/PodLevar-SPA), a donation platform
 
-* 🌱 I’m currently learning **NestJS**
+* 🌱 Learning **NestJS** and **OOP**
 
 * ⚡ Fun fact: I like music a lot 🎧, and it serves as my creative fuel, allowing me to stay focused and immersed in the development process for hours on end.
-
-* 📫 How to reach me:
-
- 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oigorholanda)](https://www.linkedin.com/in/oigorholanda)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oigorholanda@gmail.com)](mailto:oigorholanda@gmail.com)
+<h3>
+ 📫 How to reach me:
+</h3>
+<a href="mailto:oigorholanda@gmail.com?subject=Hello%20Igor,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://www.linkedin.com/in/oigorholanda"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 
 
@@ -31,7 +30,7 @@
   <tr>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
-        <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=js" width="60px" alt="Javascript icon"/><br/>
         <sub>
           <b>
             <pre>Javascript</pre>
@@ -41,7 +40,7 @@
     </td>
     <td align="center">
       <a href="https://www.typescriptlang.org/">
-        <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=ts" width="60px" alt="Typescript icon"/><br/>
         <sub>
           <b>
             <pre>Typescript</pre>
@@ -51,7 +50,7 @@
     </td>
     <td align="center">
       <a href="https://pt-br.reactjs.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65px" alt="React icon"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60px" alt="React icon"/><br/>
         <sub>
           <b>
             <pre>React</pre>
@@ -61,7 +60,7 @@
     </td>
     <td align="center">
       <a href="https://nodejs.org">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65px" alt="NodeJS icon"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60px" alt="NodeJS icon"/><br/>
         <sub>
           <b>
             <pre>Node.js</pre>
@@ -71,7 +70,7 @@
     </td>
     <td align="center">
       <a href="https://expressjs.com/">
-        <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express.js icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=express" width="60px" alt="Express.js icon"/><br/>
         <sub>
           <b>
             <pre>Express.js</pre>
@@ -81,7 +80,7 @@
     </td>
     <td align="center">
       <a href="https://nextjs.org/">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="NextJS icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=nextjs" width="60px" alt="NextJS icon"/><br/>
         <sub>
           <b>
             <pre>Next.js</pre>
@@ -91,7 +90,7 @@
     </td>
     <td align="center">
       <a href="https://tailwindcss.com/">
-      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="65px" alt="Tailwind icon"/><br/>
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="60px" alt="Tailwind icon"/><br/>
       <sub>
         <b>
           <pre>Tailwind<br/>CSS</pre>
@@ -103,7 +102,7 @@
   <tr>
     <td align="center">
       <a href="https://axios-http.com/docs/intro">
-      <img src="https://i.ibb.co/305Zbht/axios.png" width="65px" alt="Axios icon"/><br/>
+      <img src="https://i.ibb.co/305Zbht/axios.png" width="58px" alt="Axios icon"/><br/>
       <sub>
         <b>
           <pre>Axios &<br/>FetchAPI</pre>
@@ -113,7 +112,7 @@
     </td>
   <td align="center">
       <a href="https://jestjs.io/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="65px" alt="Jest icon"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="60px" alt="Jest icon"/><br/>
         <sub>
           <b>
             <pre>Jest</pre>
@@ -123,7 +122,7 @@
     </td>
     <td align="center">
       <a href="https://www.postgresql.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65px" alt="Postgresql icon"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60px" alt="Postgresql icon"/><br/>
         <sub>
           <b>
             <pre>PostgreSQL</pre>
@@ -133,7 +132,7 @@
     </td>
     <td align="center">
       <a href="https://www.mongodb.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65px" alt="Mongo icon"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60px" alt="Mongo icon"/><br/>
       <sub>
         <b>
           <pre>MongoDB</pre>
@@ -153,7 +152,7 @@
     </td>
   <td align="center">
       <a href="https://styled-components.com/">
-        <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="Styled Components icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=styledcomponents" width="55px" alt="Styled Components icon"/><br/>
         <sub>
           <b>
             <pre>Styled<br/>Components</pre>
@@ -163,7 +162,7 @@
     </td>
     <td align="center">
       <a href="https://react-hook-form.com/">
-        <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" width="65px" alt="React Hook Form icon"/><br/>
+        <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" width="58px" alt="React Hook Form icon"/><br/>
         <sub>
           <b>
             <pre>React Hook<br/>Form</pre>
@@ -175,7 +174,7 @@
   <tr>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
-        <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=html" width="55px" alt="HTML5 icon"/><br/>
         <sub>
           <b>
             <pre>HTML5</pre>
@@ -185,7 +184,7 @@
     </td>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
-        <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=css" width="55px" alt="CSS3 icon"/><br/>
         <sub>
           <b>
             <pre>CSS3</pre>
@@ -195,7 +194,7 @@
     </td>
     <td align="center">
       <a href="https://git-scm.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65px" alt="Git icon"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60px" alt="Git icon"/><br/>
         <sub>
           <b>
             <pre>Git</pre>
@@ -205,7 +204,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/">
-        <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=github" width="60px" alt="GitHub icon"/><br/>
         <sub>
           <b>
             <pre>GitHub</pre>
@@ -215,7 +214,7 @@
     </td>
     <td align="center">
       <a href="https://ohmyz.sh/">
-        <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="65px" alt="bash icon"/><br/>
+        <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="60px" alt="bash icon"/><br/>
         <sub>
           <b>
             <pre>Bash</pre>
@@ -225,7 +224,7 @@
     </td>
     <td align="center">
       <a href="https://code.visualstudio.com/">
-        <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="65px" alt="visual studio code icon"/><br/>
+        <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="55px" alt="visual studio code icon"/><br/>
         <sub>
           <b>
             <pre>VSCode</pre>
@@ -235,7 +234,7 @@
     </td>
     <td align="center">
       <a href="https://pop.system76.com/">
-        <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="Linux icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=linux" width="60px" alt="Linux icon"/><br/>
         <sub>
           <b>
             <pre>Linux &<br>Windows</pre>
@@ -249,7 +248,7 @@
 
 <hr>
 
-<details>
+<details open>
   <summary>GitHub Stats</summary>
   <br/>
   <div align="center">
@@ -267,8 +266,8 @@
 </div>
 <br/><br/><br/>
 </details>
-
-
+<hr>
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 <!--
 
 - Repositorios dos cards:
