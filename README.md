@@ -31,71 +31,43 @@
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
         <img src="https://skillicons.dev/icons?i=js" width="60px" alt="Javascript icon"/><br/>
-        <sub>
-          <b>
             <pre>Javascript</pre>
-          </b>
-        </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://www.typescriptlang.org/">
         <img src="https://skillicons.dev/icons?i=ts" width="60px" alt="Typescript icon"/><br/>
-        <sub>
-          <b>
             <pre>Typescript</pre>
-          </b>
-        </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://pt-br.reactjs.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60px" alt="React icon"/><br/>
-        <sub>
-          <b>
             <pre>React</pre>
-          </b>
-        </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://nodejs.org">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60px" alt="NodeJS icon"/><br/>
-        <sub>
-          <b>
             <pre>Node.js</pre>
-          </b>
-        </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://expressjs.com/">
         <img src="https://skillicons.dev/icons?i=express" width="60px" alt="Express.js icon"/><br/>
-        <sub>
-          <b>
             <pre>Express.js</pre>
-          </b>
-        </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://nextjs.org/">
         <img src="https://skillicons.dev/icons?i=nextjs" width="60px" alt="NextJS icon"/><br/>
-        <sub>
-          <b>
             <pre>Next.js</pre>
-          </b>
-        </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://tailwindcss.com/">
       <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="60px" alt="Tailwind icon"/><br/>
-      <sub>
-        <b>
-          <pre>Tailwind<br/>CSS</pre>
-        </b>
-      </sub>
+          <pre>Tailwind CSS</pre>
       </a>
     </td>
   </tr>
@@ -103,71 +75,43 @@
     <td align="center">
       <a href="https://axios-http.com/docs/intro">
       <img src="https://i.ibb.co/305Zbht/axios.png" width="58px" alt="Axios icon"/><br/>
-      <sub>
-        <b>
           <pre>Axios &<br/>FetchAPI</pre>
-        </b>
-      </sub>
       </a>
     </td>
   <td align="center">
       <a href="https://jestjs.io/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="60px" alt="Jest icon"/><br/>
-        <sub>
-          <b>
             <pre>Jest</pre>
-          </b>
-        </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://www.postgresql.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60px" alt="Postgresql icon"/><br/>
-        <sub>
-          <b>
             <pre>PostgreSQL</pre>
-          </b>
        </a>
-      </sub>
     </td>
     <td align="center">
       <a href="https://www.mongodb.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60px" alt="Mongo icon"/><br/>
-      <sub>
-        <b>
           <pre>MongoDB</pre>
-        </b>
-      </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://www.docker.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="65px" alt="Docker icon"/><br/>
-        <sub>
-          <b>
             <pre>Docker</pre>
-          </b>
-        </sub>
       </a>
     </td>
   <td align="center">
       <a href="https://styled-components.com/">
         <img src="https://skillicons.dev/icons?i=styledcomponents" width="55px" alt="Styled Components icon"/><br/>
-        <sub>
-          <b>
             <pre>Styled<br/>Components</pre>
-          </b>
-        </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://react-hook-form.com/">
         <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" width="58px" alt="React Hook Form icon"/><br/>
-        <sub>
-          <b>
             <pre>React Hook<br/>Form</pre>
-          </b>
-        </sub>
       </a>
     </td>
   </tr>
@@ -175,71 +119,43 @@
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
         <img src="https://skillicons.dev/icons?i=html" width="55px" alt="HTML5 icon"/><br/>
-        <sub>
-          <b>
             <pre>HTML5</pre>
-          </b>
-        </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
         <img src="https://skillicons.dev/icons?i=css" width="55px" alt="CSS3 icon"/><br/>
-        <sub>
-          <b>
             <pre>CSS3</pre>
-          </b>
-        </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://git-scm.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60px" alt="Git icon"/><br/>
-        <sub>
-          <b>
             <pre>Git</pre>
-          </b>
-        </sub>
      </a>
     </td>
     <td align="center">
       <a href="https://github.com/">
         <img src="https://skillicons.dev/icons?i=github" width="60px" alt="GitHub icon"/><br/>
-        <sub>
-          <b>
             <pre>GitHub</pre>
-          </b>
-        </sub>
      </a>
     </td>
     <td align="center">
       <a href="https://ohmyz.sh/">
         <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="60px" alt="bash icon"/><br/>
-        <sub>
-          <b>
             <pre>Bash</pre>
-          </b>
-        </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://code.visualstudio.com/">
         <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="55px" alt="visual studio code icon"/><br/>
-        <sub>
-          <b>
             <pre>VSCode</pre>
-          </b>
-        </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://pop.system76.com/">
         <img src="https://skillicons.dev/icons?i=linux" width="60px" alt="Linux icon"/><br/>
-        <sub>
-          <b>
             <pre>Linux &<br>Windows</pre>
-          </b>
-        </sub>
       </a>
     </td>
   </tr>
@@ -267,7 +183,7 @@
 <br/><br/><br/>
 </details>
 <hr>
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+<h3  align="center">💻 Check Out My Repos ⬇️ </h3>
 <!--
 
 - Repositorios dos cards:
