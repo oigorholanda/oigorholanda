@@ -18,13 +18,11 @@
 - ⚡ Fun fact: I like music a lot 🎧, and it serves as my creative fuel, allowing me to stay focused and immersed in the development process for hours on end.
 
 - 📫 How to reach me: **oigorholanda@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/oigorholanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oigorholanda" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
+<br/>
 <table align="center">
   <tr>
     <td align="center">
@@ -78,27 +76,37 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
-        <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br/>
+      <a href="https://nextjs.org/">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="NextJS icon"/><br/>
         <sub>
           <b>
-            <pre>HTML5</pre>
+            <pre>Next.js</pre>
           </b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
-        <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br/>
-        <sub>
-          <b>
-            <pre>CSS3</pre>
-          </b>
-        </sub>
+      <a href="https://tailwindcss.com/">
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="65px" alt="Tailwind icon"/><br/>
+      <sub>
+        <b>
+          <pre>Tailwind<br/>CSS</pre>
+        </b>
+      </sub>
       </a>
     </td>
   </tr>
   <tr>
+    <td align="center">
+      <a href="https://axios-http.com/docs/intro">
+      <img src="https://i.ibb.co/305Zbht/axios.png" width="65px" alt="Axios icon"/><br/>
+      <sub>
+        <b>
+          <pre>Axios &<br/>FetchAPI</pre>
+        </b>
+      </sub>
+      </a>
+    </td>
   <td align="center">
       <a href="https://jestjs.io/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="65px" alt="Jest icon"/><br/>
@@ -139,16 +147,6 @@
         </sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://nextjs.org/">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="NextJS icon"/><br/>
-        <sub>
-          <b>
-            <pre>Next.js</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
   <td align="center">
       <a href="https://styled-components.com/">
         <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="Styled Components icon"/><br/>
@@ -160,23 +158,33 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://axios-http.com/docs/intro">
-      <img src="https://i.ibb.co/305Zbht/axios.png" width="65px" alt="Axios icon"/><br/>
-      <sub>
-        <b>
-          <pre>Axios &<br/>FetchAPI</pre>
-        </b>
-      </sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://react-hook-form.com/">
         <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" width="65px" alt="React Hook Form icon"/><br/>
         <sub>
           <b>
             <pre>React Hook<br/>Form</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
+        <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br/>
+        <sub>
+          <b>
+            <pre>HTML5</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
+        <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br/>
+        <sub>
+          <b>
+            <pre>CSS3</pre>
           </b>
         </sub>
       </a>
@@ -200,16 +208,6 @@
           </b>
         </sub>
      </a>
-    </td>
-    <td align="center">
-      <a href="https://tailwindcss.com/">
-      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="65px" alt="Tailwind icon"/><br/>
-      <sub>
-        <b>
-          <pre>Tailwind<br/>CSS</pre>
-        </b>
-      </sub>
-      </a>
     </td>
     <td align="center">
       <a href="https://ohmyz.sh/">
@@ -245,7 +243,6 @@
 </table>
 <br/><br/><br/>
 
-<br>
 <hr>
 
 <div align="center">
@@ -254,15 +251,14 @@
   <a href="https://github.com/oigorholanda">
     <img align="center" height="201px" src="https://github-readme-stats.vercel.app/api?username=oigorholanda&theme=vision-friendly-dark&hide_border=true&show_icons=true&rank_icon=percentile&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&cache_seconds=14400" />
   </a>
-<br><br>
-
-
+<br/><br/>
   <a href="https://github.com/oigorholanda">
     <img align="center" height="200px" src="https://streak-stats.demolab.com?user=oigorholanda&theme=vision-friendly-dark&hide_border=true" />
   </a>
   
   <!--img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=oigorholanda&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" /-->
 </div>
+<br/><br/><br/><br/><br/>
 
 <!--
 
