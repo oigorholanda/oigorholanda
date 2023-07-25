@@ -5,9 +5,9 @@
 <br>
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/oigorholanda">
     <img src="https://github-profile-trophy.vercel.app/?username=oigorholanda&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B&column=-1&margin-w=15&no-frame=true" alt="oigorholanda" />
-  </a> 
+  </a>
 </p>
 <br>
 
@@ -16,6 +16,8 @@
 - 🌱 I’m currently learning **NestJS**
 
 - ⚡ Fun fact: I like music a lot 🎧, and it serves as my creative fuel, allowing me to stay focused and immersed in the development process for hours on end.
+
+- 📫 How to reach me: oigorholanda@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,33 +31,25 @@
 <hr>
 
 <div align="center">
-  <a align="center" href="https://github.com/oigorholanda">
-  <img align="center" height="203em" src="https://github-readme-stats.vercel.app/api/top-langs?username=oigorholanda&langs_count=8&theme=vision-friendly-dark&layout=compact&hide_border=true&cache_seconds=14400" /></a>
-<a align="center" href="https://github.com/oigorholanda">
-  <img align="center" height="203em" src="https://github-readme-stats.vercel.app/api?username=oigorholanda&theme=vision-friendly-dark&hide_border=true&show_icons=true&rank_icon=percentile&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&cache_seconds=14400" />
-</a>
+  <a href="https://github.com/oigorholanda">
+    <img align="center" height="203em" src="https://github-readme-stats.vercel.app/api/top-langs?username=oigorholanda&langs_count=8&theme=vision-friendly-dark&layout=compact&hide_border=true&cache_seconds=14400" /></a>
+  <a href="https://github.com/oigorholanda">
+    <img align="center" height="203em" src="https://github-readme-stats.vercel.app/api?username=oigorholanda&theme=vision-friendly-dark&hide_border=true&show_icons=true&rank_icon=percentile&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&cache_seconds=14400" />
+  </a>
   <br/><br/>
- <a align="center" href="https://github.com/oigorholanda"> 
-  <img height="203em" src="https://streak-stats.demolab.com?user=oigorholanda&theme=vision-friendly-dark&hide_border=true" />
- </a>
+  <a align="center" href="https://github.com/oigorholanda">
+    <img height="203em" src="https://streak-stats.demolab.com?user=oigorholanda&theme=vision-friendly-dark&hide_border=true" />
+  </a>
   <!--img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=oigorholanda&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" /-->
-
 </div>
 
 
 <!--
-**oigorholanda/oigorholanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
 
 - Repositorios dos cards:
   - https://github.com/anuraghazra/github-readme-stats;
   - https://github.com/Ashutosh00710/github-readme-activity-graph;
   - https://github.com/DenverCoder1/github-readme-streak-stats;
+- Troféus: 
+  - https://github.com/ryo-ma/github-profile-trophy
 -->
