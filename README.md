@@ -11,13 +11,13 @@
 </p>
 <br>
 
-- 🔭 I’m currently working on [Podlevar](https://github.com/oigorholanda/PodLevar-SPA)
+- 🔭 I’m currently working on [Podlevar](https://github.com/oigorholanda/PodLevar-SPA), a donation platform
 
 - 🌱 I’m currently learning **NestJS**
 
 - ⚡ Fun fact: I like music a lot 🎧, and it serves as my creative fuel, allowing me to stay focused and immersed in the development process for hours on end.
 
-- 📫 How to reach me: oigorholanda@gmail.com
+- 📫 How to reach me: **oigorholanda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +25,225 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" background-color="ffb000"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
+        <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br/>
+        <sub>
+          <b>
+            <pre>Javascript</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br/>
+        <sub>
+          <b>
+            <pre>Typescript</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pt-br.reactjs.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65px" alt="React icon"/><br/>
+        <sub>
+          <b>
+            <pre>React</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nodejs.org">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65px" alt="NodeJS icon"/><br/>
+        <sub>
+          <b>
+            <pre>Node.js</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://expressjs.com/">
+        <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express.js icon"/><br/>
+        <sub>
+          <b>
+            <pre>Express.js</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
+        <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br/>
+        <sub>
+          <b>
+            <pre>HTML5</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
+        <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br/>
+        <sub>
+          <b>
+            <pre>CSS3</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+  <td align="center">
+      <a href="https://jestjs.io/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="65px" alt="Jest icon"/><br/>
+        <sub>
+          <b>
+            <pre>Jest</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.postgresql.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65px" alt="Postgresql icon"/><br/>
+        <sub>
+          <b>
+            <pre>PostgreSQL</pre>
+          </b>
+       </a>
+      </sub>
+    </td>
+    <td align="center">
+      <a href="https://www.mongodb.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65px" alt="Mongo icon"/><br/>
+      <sub>
+        <b>
+          <pre>MongoDB</pre>
+        </b>
+      </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.docker.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="65px" alt="Docker icon"/><br/>
+        <sub>
+          <b>
+            <pre>Docker</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nextjs.org/">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="NextJS icon"/><br/>
+        <sub>
+          <b>
+            <pre>Next.js</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+  <td align="center">
+      <a href="https://styled-components.com/">
+        <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="Styled Components icon"/><br/>
+        <sub>
+          <b>
+            <pre>Styled<br/>Components</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://axios-http.com/docs/intro">
+      <img src="https://i.ibb.co/305Zbht/axios.png" width="65px" alt="Axios icon"/><br/>
+      <sub>
+        <b>
+          <pre>Axios &<br/>FetchAPI</pre>
+        </b>
+      </sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://react-hook-form.com/">
+        <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" width="65px" alt="React Hook Form icon"/><br/>
+        <sub>
+          <b>
+            <pre>React Hook<br/>Form</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65px" alt="Git icon"/><br/>
+        <sub>
+          <b>
+            <pre>Git</pre>
+          </b>
+        </sub>
+     </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/">
+        <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub icon"/><br/>
+        <sub>
+          <b>
+            <pre>GitHub</pre>
+          </b>
+        </sub>
+     </a>
+    </td>
+    <td align="center">
+      <a href="https://tailwindcss.com/">
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="65px" alt="Tailwind icon"/><br/>
+      <sub>
+        <b>
+          <pre>Tailwind<br/>CSS</pre>
+        </b>
+      </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://ohmyz.sh/">
+        <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="65px" alt="bash icon"/><br/>
+        <sub>
+          <b>
+            <pre>Bash</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://code.visualstudio.com/">
+        <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="65px" alt="visual studio code icon"/><br/>
+        <sub>
+          <b>
+            <pre>VSCode</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pop.system76.com/">
+        <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="Linux icon"/><br/>
+        <sub>
+          <b>
+            <pre>Linux &<br>Windows</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+<br/><br/><br/>
 
 <br>
 <hr>
