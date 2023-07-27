@@ -64,23 +64,17 @@
             <pre>Next.js</pre>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://tailwindcss.com/">
       <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="60px" alt="Tailwind icon"/><br/>
           <pre>Tailwind CSS</pre>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://axios-http.com/docs/intro">
-      <img src="https://i.ibb.co/305Zbht/axios.png" width="58px" alt="Axios icon"/><br/>
-          <pre>Axios &<br/>FetchAPI</pre>
-      </a>
-    </td>
   <td align="center">
       <a href="https://jestjs.io/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="60px" alt="Jest icon"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="58px" alt="Jest icon"/><br/>
             <pre>Jest</pre>
       </a>
     </td>
@@ -102,16 +96,10 @@
             <pre>Docker</pre>
       </a>
     </td>
-  <td align="center">
-      <a href="https://styled-components.com/">
-        <img src="https://skillicons.dev/icons?i=styledcomponents" width="55px" alt="Styled Components icon"/><br/>
-            <pre>Styled<br/>Components</pre>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://react-hook-form.com/">
-        <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" width="58px" alt="React Hook Form icon"/><br/>
-            <pre>React Hook<br/>Form</pre>
+        <td align="center">
+      <a href="https://redis.io/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="58px" alt="Redis icon"/><br/>
+          <pre>Redis</pre>
       </a>
     </td>
   </tr>
@@ -128,6 +116,32 @@
             <pre>CSS3</pre>
       </a>
     </td>
+      <td align="center">
+      <a href="https://styled-components.com/">
+        <img src="https://skillicons.dev/icons?i=styledcomponents" width="55px" alt="Styled Components icon"/><br/>
+            <pre>Styled<br/>Components</pre>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://react-hook-form.com/">
+        <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" width="58px" alt="React Hook Form icon"/><br/>
+            <pre>React Hook<br/>Form</pre>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://axios-http.com/docs/intro">
+      <img src="https://i.ibb.co/305Zbht/axios.png" width="58px" alt="Axios icon"/><br/>
+          <pre>Axios &<br/>FetchAPI</pre>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://prisma.io/">
+        <img src="https://skillicons.dev/icons?i=prisma" width="60px" alt="prisma icon"/><br/>
+            <pre>Prisma ORM</pre>
+     </a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://git-scm.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60px" alt="Git icon"/><br/>
@@ -138,8 +152,6 @@
       <a href="https://github.com/">
         <img src="https://skillicons.dev/icons?i=github" width="60px" alt="GitHub icon"/><br/>
             <pre>GitHub</pre>
-     </a>
-    </td>
     <td align="center">
       <a href="https://ohmyz.sh/">
         <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="60px" alt="bash icon"/><br/>
@@ -157,6 +169,12 @@
         <img src="https://skillicons.dev/icons?i=linux" width="60px" alt="Linux icon"/><br/>
             <pre>Linux &<br>Windows</pre>
       </a>
+    </td>
+    <td align="center">
+      <a href="https://figma.com/">
+        <img src="https://skillicons.dev/icons?i=figma" width="60px" alt="prisma icon"/><br/>
+            <pre>Figma</pre>
+     </a>
     </td>
   </tr>
 </table>
