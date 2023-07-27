@@ -183,7 +183,7 @@
 <hr>
 
 <details open>
-  <summary>GitHub Stats</summary>
+  <summary>📊 Stats</summary>
   <br/>
   <div align="center">
       <a href="https://github.com/oigorholanda">
