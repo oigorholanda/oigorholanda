@@ -11,7 +11,7 @@
 </p>
 <br>
 
-* 🔭 I’m currently working on [Podlevar](https://github.com/oigorholanda/PodLevar-SPA), a donation platform
+* 🔭 I’m currently working on [Podlevar](https://github.com/oigorholanda/PodLevar-SPA), a donation platform for used items
 
 * 🌱 Learning **NestJS** and **OOP**
 
