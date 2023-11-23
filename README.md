@@ -29,6 +29,18 @@
 <table align="center">
   <tr>
     <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
+        <img src="https://skillicons.dev/icons?i=html" width="55px" alt="HTML5 icon"/><br/>
+            <pre>HTML5</pre>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
+        <img src="https://skillicons.dev/icons?i=css" width="55px" alt="CSS3 icon"/><br/>
+            <pre>CSS3</pre>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
         <img src="https://skillicons.dev/icons?i=js" width="60px" alt="Javascript icon"/><br/>
             <pre>Javascript</pre>
@@ -52,6 +64,8 @@
             <pre>Node.js</pre>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://expressjs.com/">
         <img src="https://skillicons.dev/icons?i=express" width="60px" alt="Express.js icon"/><br/>
@@ -64,8 +78,12 @@
             <pre>Next.js</pre>
       </a>
     </td>
-  </tr>
-  <tr>
+    <td align="center">
+      <a href="https://styled-components.com/">
+        <img src="https://skillicons.dev/icons?i=styledcomponents" width="55px" alt="Styled Components icon"/><br/>
+            <pre>Styled<br/>Components</pre>
+      </a>
+    </td>
     <td align="center">
       <a href="https://tailwindcss.com/">
       <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="60px" alt="Tailwind icon"/><br/>
@@ -79,9 +97,17 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://www.docker.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="65px" alt="Docker icon"/><br/>
+            <pre>Docker</pre>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://www.postgresql.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60px" alt="Postgresql icon"/><br/>
-            <pre>PostgreSQL</pre>
+          <pre>PostgreSQL</pre>
        </a>
     </td>
     <td align="center">
@@ -91,35 +117,9 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.docker.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="65px" alt="Docker icon"/><br/>
-            <pre>Docker</pre>
-      </a>
-    </td>
-        <td align="center">
       <a href="https://redis.io/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="58px" alt="Redis icon"/><br/>
           <pre>Redis</pre>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
-        <img src="https://skillicons.dev/icons?i=html" width="55px" alt="HTML5 icon"/><br/>
-            <pre>HTML5</pre>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
-        <img src="https://skillicons.dev/icons?i=css" width="55px" alt="CSS3 icon"/><br/>
-            <pre>CSS3</pre>
-      </a>
-    </td>
-      <td align="center">
-      <a href="https://styled-components.com/">
-        <img src="https://skillicons.dev/icons?i=styledcomponents" width="55px" alt="Styled Components icon"/><br/>
-            <pre>Styled<br/>Components</pre>
       </a>
     </td>
     <td align="center">
@@ -145,8 +145,8 @@
     <td align="center">
       <a href="https://git-scm.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60px" alt="Git icon"/><br/>
-            <pre>Git</pre>
-     </a>
+          <pre>Git</pre>
+       </a>
     </td>
     <td align="center">
       <a href="https://github.com/">
