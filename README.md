@@ -11,7 +11,7 @@
 </p>
 <br>
 
-* 🔭 I’m currently working on [Podlevar](https://github.com/oigorholanda/PodLevar-SPA), a donation platform for used items
+* 🚗 I’m currently working on [Zapay](https://github.com/zapay-pagamentos) innovation team.
 
 * 🌱 Learning **NestJS** and **OOP**
 
