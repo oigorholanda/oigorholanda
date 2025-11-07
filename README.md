@@ -11,7 +11,7 @@
 </p>
 <br>
 
-* 🚗 I’m currently working on [Zapay](https://github.com/zapay-pagamentos) innovation team.
+* 🤖 I’m currently working on [Sinky](https://github.com/besinky)
 
 * 🌱 Learning **NestJS** and **OOP**
 
